@@ -1,0 +1,17 @@
+{
+  "name": "RhysBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["bot", "bot wa", "rhysid"],
+  "author": "Rhysid",
+  "license": "ISC",
+  "description": "Simple Bot Whatsapp",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.31.0"
+  }
+}
